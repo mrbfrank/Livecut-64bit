@@ -30,3 +30,7 @@
 *.exe
 *.out
 *.app
+
+# Ignore vendor & third_party
+/third_party
+/vendor
