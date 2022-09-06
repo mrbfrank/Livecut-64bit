@@ -2,9 +2,9 @@
 
 Livecut 64-bit community builds.
 
-Original 32-bit code open sourced by [mdsp](https://github.com/mdsp/Livecut) &amp; updated to 64-bit by fellow Livecutters around the globe.
-
 The purpose of this project is to build, test, & provide 64-bit releases of Livecut.
+
+Original 32-bit code open sourced by [mdsp](https://github.com/mdsp/Livecut) &amp; updated to 64-bit by fellow Livecutters around the globe.
 
 <!-- Do not submit plugin bugs/issues here. Any bugs/issues should be submitted to the fork of Livecut you are using. Feel free to discuss JUCE & VST_SDK build issues here. -->
 
