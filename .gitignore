@@ -31,6 +31,9 @@
 *.out
 *.app
 
+# Mac bullshit
+.DS_Store
+
 # Ignore vendor & third_party
 /third_party
 /vendor
